@@ -4,9 +4,6 @@ Application simulating a mailbox with the possibility of generating fake emails 
 
 This application takes the structure of another application that can be used as ToDo List, The database is in Postgre SQL and allows the management of all these features
 
-The application is in production on heroku at :
-
-https://gmail-like-ajax-thp.herokuapp.com/
 
 ```
 Result
